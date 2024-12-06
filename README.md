@@ -35,7 +35,7 @@ The **COVID-19 Analysis Dashboard** is a comprehensive and interactive data visu
 ## Screenshot
 Here is a screenshot of the COVID-19 Analysis Dashboard:
 
-![COVID-19 Dashboard](Screenshot(85).png)
+![COVID-19 Dashboard](image.png)
 
 - **Power BI**: Primary tool for creating the dashboard and visualizations.
 - **Data Cleaning**: Preprocessing data to handle inconsistencies and ensure accuracy.
